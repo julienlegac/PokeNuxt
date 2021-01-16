@@ -1,6 +1,4 @@
 # pokeNuxt
-/!\ Ceci est un petit développement pour montrer les bases de Vue.js et Nuxt.js
-
 ## Build Setup
 
 ```bash
