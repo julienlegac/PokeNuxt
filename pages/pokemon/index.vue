@@ -1,0 +1,1 @@
+<template><p>Pokemon not found</p></template>
